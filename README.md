@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡I need a <br>!
+- ⚡I need a <br>
 
 <!---
 deploy-05/deploy-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
